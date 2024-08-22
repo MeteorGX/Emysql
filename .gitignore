@@ -23,3 +23,12 @@ test/ct_log_cache
 logs/*
 .#*
 include/crypto_compat.hrl
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+/_build/
